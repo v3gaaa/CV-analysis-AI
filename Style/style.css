@@ -1,0 +1,20 @@
+/*Styling para los botones*/
+button {
+  background-color: #FFFFFF;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+/*Añade un color blanco al hover del boton */
+button:hover {
+  background-color: #FFFFFF;
+}
+
+
+/*Ocultar el branding de streamlit*/
+#MainMenu {visibility: hidden;}
+footer {visibility: hidden;}
+header {visibility: hidden;}

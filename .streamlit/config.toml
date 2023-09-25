@@ -1,0 +1,16 @@
+[theme]
+
+#Color primario para la mayoria de elementos
+primaryColor = '#497e76'
+
+#Color del fondo
+backgroundColor = '#62978f'
+
+#Color de fondo para elementos secundarios y elementos interactivos
+secondaryBackgroundColor = '#497e76'
+
+#Color para la mayoria del texto
+textColor = '#FFFFFF'
+
+#Familia de font para la mayoria de texto en la app
+font = "serif"
